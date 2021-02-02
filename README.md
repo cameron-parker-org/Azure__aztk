@@ -3,6 +3,9 @@ Azure Distributed Data Engineering Toolkit (AZTK) is a python CLI application fo
 
 This toolkit is built on top of Azure Batch but does not require any Azure Batch knowledge to use.
 
+## Status
+This repository has been marked for archival. It is no longer maintained.
+
 ## Notable Features
 - Spark cluster provision time of 5 minutes on average
 - Spark clusters run in Docker containers
